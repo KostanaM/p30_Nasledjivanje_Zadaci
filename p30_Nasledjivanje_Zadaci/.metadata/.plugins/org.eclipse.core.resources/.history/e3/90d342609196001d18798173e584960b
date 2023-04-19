@@ -1,0 +1,13 @@
+package UUP; 
+
+public class PrehrambeniProizvod extends Proizvod { 
+	
+	String vrsta; 
+	
+	public PrehrambeniProizvod(String naziv, String proizvodjac, double cena, String rokTrajanja) { 
+	super(naziv, proizvodjac, cena, rokTrajanja); 
+	vrsta = "nepoznata"; 
+	
+	} 
+	
+}

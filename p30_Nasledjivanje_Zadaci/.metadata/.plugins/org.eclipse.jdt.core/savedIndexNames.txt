@@ -1,0 +1,12 @@
+INDEX VERSION 1.131+C:\Users\Kostana\Desktop\New folder\IT prekvalifikacije\Predavanja-Eclipse\p30_Nasledjivanje_Zadaci\.metadata\.plugins\org.eclipse.jdt.core
+586827729.index
+3438552829.index
+630686664.index
+1442674503.index
+1548434284.index
+3415859940.index
+1865797976.index
+3153270379.index
+726404090.index
+3164525170.index
+609821824.index
